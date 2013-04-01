@@ -1,0 +1,20 @@
+{
+    "name": "nell-sniffer/nell-sniffer",
+    "type": "library",
+    "description": "Nell Packet Sniffer",
+    "keywords": ["nell","sniffer","nell_sniffer"],
+    "homepage": "https://github.com/shahabv/nell-sniffer",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Shahab Vahabzadeh",
+            "email": "sh.vahabzadeh@gmail.com",
+            "homepage": "http://shahabv.com",
+            "role": "Owner"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
+
