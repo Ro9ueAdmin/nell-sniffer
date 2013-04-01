@@ -4,7 +4,6 @@
     "description": "Nell Packet Sniffer",
     "keywords": ["nell","sniffer","nell_sniffer"],
     "homepage": "https://github.com/shahabv/nell-sniffer",
-    "license": "GPL",
     "authors": [
         {
             "name": "Shahab Vahabzadeh",
@@ -14,7 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+	"symfony/framework-bundle": "2.*",
     }
 }
 
